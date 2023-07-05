@@ -13,6 +13,7 @@ public class Basescript
 	WebDriver driver=new ChromeDriver();
 	driver
 	driver.get("https://demoqa.com/automation-practice-form");
+	//lunch the browser
 	
 	
 	
